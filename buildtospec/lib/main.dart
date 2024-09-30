@@ -62,7 +62,8 @@ class _MyHomePageState extends State<MyHomePage> {
       // This call to setState tells the Flutter framework that something has
       // changed in this State, which causes it to rerun the build method below
       // so that the display can reflect the updated values. If we changed
-      // _counter without calling setState(), then the build method would not be
+      // _counter without calling setState(), then the build metChatGPT said:
+
       // called again, and so nothing would appear to happen.
       _counter++;
     });
